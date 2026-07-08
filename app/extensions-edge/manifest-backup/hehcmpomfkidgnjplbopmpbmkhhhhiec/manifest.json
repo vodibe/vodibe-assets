@@ -1,0 +1,31 @@
+{
+   "action": {
+      "default_popup": "/data/picker/index.html"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://webextension.org/listing/color-picker.html",
+   "icons": {
+      "128": "/data/icons/128.png",
+      "16": "/data/icons/16.png",
+      "256": "/data/icons/256.png",
+      "32": "/data/icons/32.png",
+      "48": "/data/icons/48.png",
+      "512": "/data/icons/512.png",
+      "64": "/data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyMv+HLN7cREppcbcy6R5oGF6Z8ARFxgOZJbTyEOLtbBYhxhHkyr5elWF2qCwlOnjs3H4wHzX7RI10CZNpVg/3mCUW8yJQTF3NGMIZH0XcZqJaqsNFLSufyv8bmNQ88uncnpblXpBML1/b3dDvqpzvZVqTzpO94DC0L5O4I21vv4816NHsKerrcu4wZ67R1huRYiHSE+JH6HEmoo3Ust3U+Yj0mRpe1zC94oJ5kBVN9XJgjVHY66Mjb2FTDBZ92YvWAEjTTzVazqw2d6ypgvC3yJWKl75BdAyhuBZM/OaSIe1SFjl6b8P4EXyWnq68+BauDGsq6uLm3WNs7hbPGXRdwIDAQAB",
+   "manifest_version": 3,
+   "name": "Color Picker - Native Eyedropper",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.8"
+}

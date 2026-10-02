@@ -1,1 +1,0 @@
-ren "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate_Disabled.exe" "MicrosoftEdgeUpdate.txt"

@@ -1,0 +1,97 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [
+    {
+      "name": "Consolas"
+    },
+    {
+      "name": "Cambria Math"
+    }
+  ],
+  "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+  "customLibraries": [],
+  "plugins": [],
+  "recentColors": [
+    "FFFFFF",
+    "A680B8",
+    "FFFF3340",
+    "FFFF3390",
+    "FFFF33A0",
+    "FFFF3304",
+    "D8007345",
+    "1BA1E245",
+    "F0A30A45",
+    "F0A30AFA",
+    "F0A30AAA"
+  ],
+  "formatWidth": 240,
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 827,
+    "height": 1169
+  },
+  "search": true,
+  "showStartScreen": false,
+  "gridColor": "light-dark(#d0d0d0, #424242)",
+  "darkGridColor": "#424242",
+  "darkMode": true,
+  "autosave": false,
+  "resizeImages": null,
+  "openCounter": 613,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "ui": "kennedy",
+  "enableAnimations": false,
+  "compactMode": true,
+  "windowStates": {
+    "chat": {
+      "x": 224,
+      "y": 104,
+      "w": 440,
+      "h": 440,
+      "visible": false,
+      "minimized": false,
+      "dockState": null,
+      "dockAnchorRight": null,
+      "dockAnchorBottom": null,
+      "dockOffsetX": null,
+      "dockOffsetY": null
+    },
+    "colorPicker": {
+      "x": 1427,
+      "y": 100,
+      "w": 260,
+      "h": 504,
+      "visible": false,
+      "minimized": false,
+      "dockState": null,
+      "dockAnchorRight": null,
+      "dockAnchorBottom": null,
+      "dockOffsetX": null,
+      "dockOffsetY": null
+    },
+    "freehand": {
+      "x": 670,
+      "y": 102,
+      "w": 180,
+      "h": 126,
+      "visible": true,
+      "minimized": true,
+      "dockState": null,
+      "dockAnchorRight": null,
+      "dockAnchorBottom": null,
+      "dockOffsetX": null,
+      "dockOffsetY": null
+    }
+  },
+  "collapsedSections": {
+    "Avanzate": true
+  },
+  "collapsedLibraries": {
+    "er": false
+  }
+}
